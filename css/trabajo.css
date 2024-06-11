@@ -1,0 +1,42 @@
+H1{
+    color: brown;
+    background-color: black;
+}
+.fondo-unilivo{
+    background-image: url(../resources/Escudo\ unilivo\ nuevo_edited.webp);
+    background-size:cover
+}
+div{
+   color: blueviolet;
+}
+
+
+.nosotros-contenido{
+    border: solid;
+
+}
+
+.celulares img{
+   height: 150px;
+   border: dotted 3px violet;
+
+}
+body{
+   text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+    background-color: black;
+}
+
+head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    width:100%;
+    z-index: 100;
+}

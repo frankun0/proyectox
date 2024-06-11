@@ -1,0 +1,109 @@
+H1{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-width: 10px;
+    
+}
+.fondo-unilivo{
+    display:flex;
+    background-image: url(../resources/Escudo\ unilivo\ nuevo_edited.webp);
+    background-size: contain;
+}
+div{
+   color: blueviolet;
+}
+
+
+.nosotros-contenido{
+    border: solid;
+
+}
+.Equipos_fotos{
+ display: flex;   
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+min-width: 50px;
+
+
+
+}
+.Equipos_fotos img{
+    display: flex;
+    min-width: 50px;
+    width: 80%;
+}
+*{
+    margin:0;
+    padding:0;
+    borders:0;
+    font-size: 100%;
+}
+body{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+
+p{
+    color: black;
+}
+  
+    
+h2 img{
+    display: flex;
+    width: 700px;
+    min-width:20px;
+}
+body{
+  background-image: url(https://media.istockphoto.com/id/1353968500/es/v%C3%ADdeo/fondo-de-degradados-de-color-animados-abstractos.jpg?s=640x640&k=20&c=4exA5ksh7bTY69qtl-AIRjBYkAQp5Hpamwi9puYh3a4=);
+background-size: cover;
+font-size: 30px;
+
+}
+h3 img{
+    width: 700px;
+    height: 500pxpx;
+}
+h3{
+    color: black;
+    font-size:70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-width: 30px;
+}
+.Equipos_fotos :hover{
+    transform: scale(1.1);
+
+}
+
+
+h1{
+    flex: auto;
+    text-size-adjust:auto
+    ;
+}
+h2{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+.Fotos_inicio{
+    display: flex;
+    justify-content: center;
+
+}
+.Fotos_inicio img{
+    display: flex;
+    width: 500px;
+    min-width: 50px;
+
+   
+}
+body img{
+    width: 100px;
+    inline-size: none;
+}
+header{
+align-items: center;
+}
